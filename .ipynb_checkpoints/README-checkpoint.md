@@ -4,4 +4,4 @@ In this repo we conduct comparative analysis of different unsupervised learning 
 
 [Read the full PDF report here.](https://github.com/elronbandel/unsupervised-learning/blob/master/unsupervised-learning.pdf?raw=true)
 
-![clusters](https://github.com/elronbandel/unsupervised-learning/blob/master/figures/figure7.png?raw=true)
+![clusters](https://github.com/elronbandel/unsupervised-learning/blob/master/figure7.png?raw=true)
